@@ -1,0 +1,2 @@
+Ogrenci{ogrenciNo='sfad', ogrenciAd='a', ogrenciSoyad='asdf', ogrenciBolum='asdf', ogrenciDersler=[]}
+Ogrenci{ogrenciNo='sfad', ogrenciAd='a', ogrenciSoyad='asdf', ogrenciBolum='asdf', ogrenciDersler=[]}
